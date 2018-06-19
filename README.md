@@ -4,7 +4,7 @@
 
 This project was carried out under the guidance of Dr. Pinaki Chakraborthy (from NSIT, Delhi) and Dr. Christina (from URJC, Madrid). 
 
-A delegation of 6 people from NSIT collaborated with a team of students from URJC, Madrid (Rey Juan Carlos University). Our final project was building a Domotic Home Automation System.
+A group of 6 people from NSIT collaborated remotely with a team of students from URJC, Madrid (Rey Juan Carlos University). Our final project was building a Domotic Home Automation System.
 
 We used the online IDE Autodesk Tinkercad for simulations of circuits.
 The final project was created after three phases of collaboration, focussed on learning.
